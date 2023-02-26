@@ -1,0 +1,6 @@
+[submodule "WinApp_PeopleCalculation"]
+	path = WinApp_PeopleCalculation
+	url = https://github.com/Leviathan856/WinApp_PeopleCalculation
+[submodule "Device_PeopleCalculation"]
+	path = Device_PeopleCalculation
+	url = https://github.com/Leviathan856/Device_PeopleCalculation
